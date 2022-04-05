@@ -11,7 +11,9 @@ phone: (+86)158 0635 2317
 ---
 
 # **左 佳**
-
+<!-- <img style="float:right" src="https://img-blog.csdnimg.cn/2020071713464647.png" width = "200" height = "250" alt="1" /> -->
+<!-- <img src="https://img-blog.csdnimg.cn/2020071713464647.png" width="120px" height="150px" style="float:right 5px 5px 5px rgba(0,0,0,.5);"> -->
+<!-- <img src="https://img-blog.csdnimg.cn/2020071713464647.png" width="5%"> -->
 <!--
 include contact information from the front matter
 Supported arguments:
@@ -22,6 +24,11 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
+<div>
+  <div style="float: right;margin-right: 10px;">
+    <img src="./images/1.jpg" width="120px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
+  </div>
+</div>
 ## **教育背景**
 
 ### **哈尔滨工业大学（威海）** `2019/9 - 至今`
@@ -29,9 +36,9 @@ Supported arguments:
 ```
 威海, 中国
 ```
-
-- 测控技术与仪器
-- GPA: 81/100     3.15/4.0
+- 在读本科生，预计 2023 年毕业
+- 专业：测控技术与仪器
+- GPA：81/100     3.15/4.0
 - 语言：CET-6     IELTS: 6.0
 
 ## **领导经历**
