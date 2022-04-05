@@ -2,11 +2,11 @@
 layout: cv
 title: 左佳
 email:
-  url: hit.zzj.zuojia@gmail.com
+  url: mailto:hit.zzj.zuojia@gmail.com
   text: hit.zzj.zuojia@gmail.com
 homepage:
   url: http://zuozuojia.github.io
-  text: http://zuozuojia.github.io
+  text: zuozuojia.github.io
 phone: (+86)158 0635 2317
 ---
 
@@ -36,31 +36,34 @@ Supported arguments:
 
 ## **领导经历**
 
-### [**718 智能车实验室**](https://zuozuojia.github.io/posts/Introduction/)
+### **718 智能车实验室** <!-- (https://zuozuojia.github.io/posts/Introduction/)-->
 **负责人** `2020/9 – 2021/9`
 <br> 
+ <!-- 
 作为成员 60 余人的实验室负责人，负责团队纳新、宣传、运营: 组织大小赛事 4 场；面向全校开展科普与科创知识培训，前后覆盖面共计 1800 余人；首次将实验室由只有电控成员转型成为兼容视觉与机械的人才培养基地。 <br>
 [[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
 [[BibTeX]({{ page.homepage.url }}/assets/uist-21-recode.txt)]
 [[video preview](https://youtu.be/fMdHK9UrgQ4)]
-[[talk](https://youtu.be/_GQ8E7EMMws)]
+[[talk](https://youtu.be/_GQ8E7EMMws)]-->
 
-### [**HERO 竞技机器人**](https://zuozuojia.github.io/posts/Introduction/)`2020/9 – 至今`
+### **HERO 竞技机器人** <!-- (https://zuozuojia.github.io/posts/Introduction/)`2020/9 – 至今`-->
 **副队长， 项目管理** `2021/1 – 2021/8`
 <br> 
 管理团队开发进度及人员任务分工。负责自身嵌入式、算法工作的同时，参与机械设计、审图。 <br>
+ <!-- 
 [[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
 [[BibTeX]({{ page.homepage.url }}/assets/uist-21-recode.txt)]
 [[video preview](https://youtu.be/fMdHK9UrgQ4)]
-[[talk](https://youtu.be/_GQ8E7EMMws)]
+[[talk](https://youtu.be/_GQ8E7EMMws)]-->
 
 **队长** `2021/9 – 至今`
 <br> 
 管理 40 余人的团队，组织团队参加 RoboMaster 赛事。负责全队机械、电控、视觉、运营的研发方向与进度。 <br>
+ <!-- 
 [[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
 [[BibTeX]({{ page.homepage.url }}/assets/uist-21-recode.txt)]
 [[video preview](https://youtu.be/fMdHK9UrgQ4)]
-[[talk](https://youtu.be/_GQ8E7EMMws)]
+[[talk](https://youtu.be/_GQ8E7EMMws)]-->
 
 
 ## **项目研发经历**
@@ -75,10 +78,11 @@ Supported arguments:
 
 使用 OLED 和按键进行人机交互，实现菜单算法。测量体温，并自动刷新、绘制温度随时间变化的折线图。抬腕自动亮屏、放下自动熄屏、自动检测睡眠姿态防亮屏算法。检测运动状态，记录步数。
 <br>
+ <!-- 
 [[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
 [[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
 [[www](http://penrose.ink/siggraph20.html)]
-[[repo](https://github.com/penrose/penrose)]
+[[repo](https://github.com/penrose/penrose)]-->
 
 **HERO 竞技机器人队** RoboMaster 机甲大师高校系列赛 `2020/9 – 至今`
 
@@ -98,10 +102,11 @@ Supported arguments:
 
 自动识别并抠除窗户等大光斑，利用 PI 控制器实现自动曝光，以便后期目标检测。
 <br>
+ <!-- 
 [[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
 [[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
 [[www](http://penrose.ink/siggraph20.html)]
-[[repo](https://github.com/penrose/penrose)]
+[[repo](https://github.com/penrose/penrose)]-->
 
 **数学建模竞赛 4 场**`2020/9 – 2022/2`
 
@@ -112,10 +117,11 @@ Supported arguments:
 - 使用 Python 和 SPSS 建模，使用多因素方差分析、Spearman 相关系数分析、MLP 探究乙醇催化偶合制备 C4 烯烃工艺条件的优化问题。
 - 建模探究世界公平的影响因素，并进行论文的撰写。
 <br>
+ <!-- 
 [[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
 [[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
 [[www](http://penrose.ink/siggraph20.html)]
-[[repo](https://github.com/penrose/penrose)]
+[[repo](https://github.com/penrose/penrose)]-->
 
 
 
