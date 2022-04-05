@@ -22,7 +22,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## 教育背景
+## **教育背景**
 
 ### **哈尔滨工业大学（威海）** `2019/9 - 至今`
 
