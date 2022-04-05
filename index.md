@@ -37,18 +37,20 @@ Supported arguments:
 ## **领导经历**
 
 ### **718 智能车实验室** <!-- (https://zuozuojia.github.io/posts/Introduction/)-->
-**负责人** `2020/9 – 2021/9`
+- **负责人** `2020/9 – 2021/9`
 <br> 
- <!-- 
+
 作为成员 60 余人的实验室负责人，负责团队纳新、宣传、运营: 组织大小赛事 4 场；面向全校开展科普与科创知识培训，前后覆盖面共计 1800 余人；首次将实验室由只有电控成员转型成为兼容视觉与机械的人才培养基地。 <br>
+ <!-- 
 [[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
 [[BibTeX]({{ page.homepage.url }}/assets/uist-21-recode.txt)]
 [[video preview](https://youtu.be/fMdHK9UrgQ4)]
 [[talk](https://youtu.be/_GQ8E7EMMws)]-->
 
 ### **HERO 竞技机器人** <!-- (https://zuozuojia.github.io/posts/Introduction/)`2020/9 – 至今`-->
-**副队长， 项目管理** `2021/1 – 2021/8`
+- **副队长， 项目管理** `2021/1 – 2021/8`
 <br> 
+
 管理团队开发进度及人员任务分工。负责自身嵌入式、算法工作的同时，参与机械设计、审图。 <br>
  <!-- 
 [[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
@@ -56,8 +58,9 @@ Supported arguments:
 [[video preview](https://youtu.be/fMdHK9UrgQ4)]
 [[talk](https://youtu.be/_GQ8E7EMMws)]-->
 
-**队长** `2021/9 – 至今`
+- **队长** `2021/9 – 至今`
 <br> 
+
 管理 40 余人的团队，组织团队参加 RoboMaster 赛事。负责全队机械、电控、视觉、运营的研发方向与进度。 <br>
  <!-- 
 [[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
