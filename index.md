@@ -1,15 +1,16 @@
 ---
 layout: cv
-title: Zuo Jia
+title: 左佳
 email:
   url: hit.zzj.zuojia@gmail.com
   text: hit.zzj.zuojia@gmail.com
 homepage:
   url: http://zuozuojia.github.io
   text: http://zuozuojia.github.io
+phone: (+86)158 0635 2317
 ---
 
-# Zuo **Jia**
+# **左 佳**
 
 <!--
 include contact information from the front matter
@@ -21,127 +22,137 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Education
+## 教育背景
 
-### **Harbin Institute of Technology** `2019.9 -`
+### **哈尔滨工业大学（威海）** `2019/9 - 至今`
 
 ```
-Weihai, China
+威海, China
 ```
 
-- B.S. in Measurement and Control Technology and Instruments
-- GPA: 81/100 3.15/4.0
-- IELTS: 6.0
-## Publications
+- 测控技术与仪器
+- GPA: 81/100     3.15/4.0
+- 语言：CET-6     IELTS: 6.0
 
-### [**reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**]({{ page.homepage.url }}/assets/uist-21-recode.pdf)
-**Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
-_In Proceedings of the 34th ACM Symposium on User Interface Software and Technology (UIST'21)._ <br>
+## **领导经历**
+
+### [**718 智能车实验室**](https://zuozuojia.github.io/posts/Introduction/)
+**负责人** `2020/9 – 2021/9`
+<br> 
+作为成员 60 余人的实验室负责人，负责团队纳新、宣传、运营: 组织大小赛事 4 场；面向全校开展科普与科创知识培训，前后覆盖面共计 1800 余人；首次将实验室由只有电控成员转型成为兼容视觉与机械的人才培养基地。 <br>
+[[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
+[[BibTeX]({{ page.homepage.url }}/assets/uist-21-recode.txt)]
+[[video preview](https://youtu.be/fMdHK9UrgQ4)]
+[[talk](https://youtu.be/_GQ8E7EMMws)]
+
+### [**HERO 竞技机器人**](https://zuozuojia.github.io/posts/Introduction/)`2020/9 – 至今`
+**副队长， 项目管理** `2021/1 – 2021/8`
+<br> 
+管理团队开发进度及人员任务分工。负责自身嵌入式、算法工作的同时，参与机械设计、审图。 <br>
+[[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
+[[BibTeX]({{ page.homepage.url }}/assets/uist-21-recode.txt)]
+[[video preview](https://youtu.be/fMdHK9UrgQ4)]
+[[talk](https://youtu.be/_GQ8E7EMMws)]
+
+**队长** `2021/9 – 至今`
+<br> 
+管理 40 余人的团队，组织团队参加 RoboMaster 赛事。负责全队机械、电控、视觉、运营的研发方向与进度。 <br>
 [[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
 [[BibTeX]({{ page.homepage.url }}/assets/uist-21-recode.txt)]
 [[video preview](https://youtu.be/fMdHK9UrgQ4)]
 [[talk](https://youtu.be/_GQ8E7EMMws)]
 
 
-### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
-Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
-_ACM Transactions on Graphics (SIGGRAPH'20)._<br>
+## [**项目研发经历**]
+**718 智能车实验室**`2019 – 2021`
+
+2019/11 – 2020/9 **嵌入式软件开发**
+<br> 
+- 自平衡两轮智能车 全国大学生智能车竞赛
+
+基于串级 PID 控制器的两轮直立车的平衡和运动算法。基于 PID 控制器的电磁循迹算法。适应复杂路段（例如环岛、急转弯、坡道等）的循迹算法。使用六轴姿态传感器基于卡尔曼滤波的姿态解算算法。
+- 智能手表 全国大学生电子设计大赛
+
+使用 OLED 和按键进行人机交互，实现菜单算法。测量体温，并自动刷新、绘制温度随时间变化的折线图。抬腕自动亮屏、放下自动熄屏、自动检测睡眠姿态防亮屏算法。检测运动状态，记录步数。
+<br>
 [[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
 [[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
 [[www](http://penrose.ink/siggraph20.html)]
 [[repo](https://github.com/penrose/penrose)]
 
-### [**How Domain Experts Create Conceptual Diagrams and Implications for Tool Design**]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)
+**HERO 竞技机器人队** RoboMaster 机甲大师高校系列赛 `2020/9 – 至今`
 
-Dor Ma'ayan\*, **Wode Ni\***, Katherine Ye, Chinmay Kulkarni, and Joshua Sunshine.<br>
-<i class="fas fa-award"></i> <strong>Best Paper Honourable Mention</strong><br>
-_In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20)._<br>
-[[PDF]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.txt)]
+2020/9 – 至今 **嵌入式软件开发**
+<br> 
+- 独立设计主力开发基于 RT-Thread 的电控软件架构
 
-### [**Defining Visual Narratives for Mathematics Declaratively**](http://2019.plateau-workshop.org/assets/papers-2019/9.pdf)
+基于串级 PID 的两轴云台控制，数据源可由 IMU 与磁编码器顺滑切换。修复 RT-Thread 中的关于 CAN、PWM 等外设驱动代码错误。基于特殊 PID 的陀螺仪的温度控制器算法。遥控控制机器人发弹、运动等算法。基于视觉的自动瞄准打击目标算法。
+- 自主开发基于 RT-Thread 的电机智能控制板软件
 
-Max Krieger, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://2019.plateau-workshop.org/assets/papers-2019/9.pdf)]
-[[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
+设计基于 CAN 通信的主从机通信协议，包括设置指令、控制指令、读取指令、错误处理以及其反馈报文。实现主机一条指令实现的电机自动初位置校准、自动角度/转速闭环等。主从机掉线自动处理机制，电机堵转、掉线报警。
+<br>
 
-### [**Designing Declarative Language Tutorials: a Guided and Individualized Approach**](http://2019.plateau-workshop.org/assets/papers-2019/2.pdf)
+2021/1 – 2021/4	**视觉/算法开发**
+<br> 
+- 抗干扰的自适应曝光算法
 
-Anael Kuperwajs Cohen, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://2019.plateau-workshop.org/assets/papers-2019/2.pdf)]
-[[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
-
----
-
-### [**Substance and Style: domain-specific languages for mathematical diagrams**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-
-**Wode Ni\***, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> _Domain-Specific Language Design and Implementation (DSLDI 2017), co-located with SPLASH._ <br>
-[[PDF]({{ page.homepage.url }}/assets/dsldi.pdf)]
-[[slides]({{ page.homepage.url }}/assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
+自动识别并抠除窗户等大光斑，利用 PI 控制器实现自动曝光，以便后期目标检测。
+<br>
+[[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
+[[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
+[[www](http://penrose.ink/siggraph20.html)]
 [[repo](https://github.com/penrose/penrose)]
 
-### [**Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)
+**数学建模竞赛 4 场**`2020/9 – 2022/2`
 
-**Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
-
-## Experience
-
-### **Microsoft Research** `2020.5 - 2020.8`
-
-_Research Intern_<br>
-Worked with the [PROSE](https://www.microsoft.com/en-us/research/group/prose/) team (mentored by [Titus Barik](https://www.barik.net/)) on improving developer productivity in Visual Studio Code. I interviewed developers to elicit their needs for code transformation tools in editors. Inspired by the empirical data and relevant work in program synthesis, I designed **reCode**, an interaction model for rapidly performing complex code transformation using the familiar find-and-replace experience.
-
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
-
-_Research Assistant_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
-
-### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
-
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
-
-## Mentoring
-
-[Hwei-Shin Harriman](https://hsharriman.github.io/) (Olin College of Engineering, independent research) `CMU, 2021 - Now` <br>
-[Helena Yang](https://heleaf.me/) (CMU, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2021` <br>
-[Max Krieger](https://a9.io/) (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - 2021` <br>
-[Courtney Miller](https://courtney-e-miller.github.io/) (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-[Anael Kuperwajs Cohen](https://anaelkuperwajs.github.io/) (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-
----
-
-## Honors & Awards
-
-CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
-
-## Teaching
-
-Teaching Assistant, **Crafting Software (17-450/17-950)** `CMU, 2022` <br>
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
+2020/9 – 至今	**队长**
+<br> 
+- 使用 Python、MatheMatica，完成模型建立、随机地图生成、最短路径算法以及可视化处理。
+- 使用 Python，完成 TOPSIS 综合分析、灰色关联分析，使用 Networkx 实现节点影响力可视化。
+- 使用 Python 和 SPSS 建模，使用多因素方差分析、Spearman 相关系数分析、MLP 探究乙醇催化偶合制备 C4 烯烃工艺条件的优化问题。
+- 建模探究世界公平的影响因素，并进行论文的撰写。
+<br>
+[[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
+[[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
+[[www](http://penrose.ink/siggraph20.html)]
+[[repo](https://github.com/penrose/penrose)]
 
 
-## Service
 
-Sub-reviewer `OOPSLA'21, VL/HCC'21` <br>
-Reviewer `CHI'21, CHI'22, SIGGRAPH'22` <br>
-Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2021` <br>
+## **IT 技能**
+- 编程语言：C > Python > C++ > 汇编 > Verilog
+- 平台：STM32，MSP430，STC，LPC，Linux
+- 软件工具：熟练使用 Keil、IAR、LabView、SPSS，熟悉 MATLAB、Webots、Solidworks
+- 嵌入式实时系统 (RTOS)：RT-Thread
+
+
+## **获奖情况**
+**国家级奖项**
+- 二等奖, 第二十届全国大学生机器人大赛 ROBOMASTER 2021 机甲大师超级对抗赛全国赛 `2021/8`
+- 二等奖, 2021 年高教杯全国大学生数学建模竞赛本科生组 `2021/11`
+
+**区级奖项**
+- 一等奖, 第二十届全国大学生机器人大赛 ROBOMASTER 2021 机甲大师超级对抗赛区域赛北部赛区 `2021/8`
+
+**省级奖项**
+- 一等奖, 第十一届山东省大学生科技节-科技馆展品创意与制作设计大赛 `2019/11`
+- 二等奖, 全国大学生数学建模竞赛山东赛区 `2020/10`
+- 二等奖, 全国大学生电子设计大赛山东赛区 `2020/10`
+- 二等奖, 全国大学生智能车大赛山东赛区 `2020/10`
+
+**荣誉称号及奖学金**
+- 优秀科创个人, 哈尔滨工业大学（威海）2020 年度信息科学与工程学院 `2020/12`
+- 科技创新奖学金, 哈尔滨工业大学（威海）2019-2020 春季学期 `2020/6`
+- 科技创新奖学金, 哈尔滨工业大学（威海）2019-2020 秋季学期 `2020/10`
+- 二等奖学金, 哈尔滨工业大学（威海）2020-2021 春季学期 `2021/5`
+- 优秀学生干部, 哈尔滨工业大学（威海）2019-2020 年度 `2020/12`
+
+## **学生工作经历**
+- 1902805 班学习委员
+- 1902202 班心理委员
+- 哈尔滨工业大学（威海）校合唱团成员
+- 哈尔滨工业大学（威海）信息科学与技术学院学生会科创中心部员
+- 2019-2020 年秋高级电子技术课程助教
 
 <!-- ### Footer
 
