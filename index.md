@@ -26,7 +26,7 @@ Supported arguments:
 
 <div>
   <div style="float: right;margin-right: 10px;">
-    <img src="./images/1.jpg" width="100px" height="150px" style="box-shadow: "> %5px 5px 5px rgba(0,0,0,.5);
+    <img src="./images/1.jpg" width="100px" height="150px" style="box-shadow: "> <!-- 5px 5px 5px rgba(0,0,0,.5);-->
   </div>
 </div>
 ## **教育背景**
